@@ -8,7 +8,6 @@ Engineering graduate passionate about **networking** and **DevOps**. Currently p
 - 🌱 Currently learning advanced networking concepts and cloud technologies
 - 💼 Experienced in Linux system administration, server deployment, and network configuration
 - 🔧 Love working with legacy hardware and making it useful again
-- 📍 Based in Aralvaimozhi, Tamil Nadu
 
 ## 🛠️ Technical Skills
 
