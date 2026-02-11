@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/josephsharon07.png" alt="Sharon Joseph A S" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/josephsharon07.png" alt="Sharon Joseph A S" width="200" />
 </div>
 
 # Hi there! 👋 I'm Sharon Joseph A S
