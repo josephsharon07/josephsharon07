@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/josephsharon07.png" alt="Sharon Joseph A S" width="200" style="border-radius: 50%;" />
+</div>
+
 # Hi there! 👋 I'm Sharon Joseph A S
 
 ## 🚀 About Me
