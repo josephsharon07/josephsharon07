@@ -69,9 +69,9 @@ Engineering graduate specializing in **Networking**, **IoT**, and **DevOps**. Cu
 
 ## 📈 GitHub Activity
 
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephsharon07&show_icons=true&theme=radical)
+![Sharon's GitHub stats](https://readme-stats-fast.vercel.app/api?username=josephsharon07&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephsharon07&layout=compact&theme=radical)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=josephsharon07&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
 
